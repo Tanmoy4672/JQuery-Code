@@ -1,0 +1,60 @@
+.btn1{
+    width: 500px;
+    background: rebeccapurple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.lorem{
+    width: 500px;
+    background: rgb(51, 92, 153);
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+    display: none;
+}
+.btn2{
+    width: 500px;
+    background: rebeccapurple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.lorem2{
+    width: 500px;
+    background: rgb(51, 92, 153);
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+    
+}
+.btn3{
+    width: 500px;
+    background: rebeccapurple;
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 20px;
+    margin-top: 50px;
+}
+.lorem3{
+    width: 500px;
+    background: rgb(51, 92, 153);
+    color: white;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    font-size: 16px;
+    
+}
